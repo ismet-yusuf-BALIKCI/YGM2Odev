@@ -1,0 +1,10 @@
+<html>
+<head> 
+<title> Bu bir sınav sayfasıdır</title>
+<h>İsmet Yusuf Balıkcı</h>
+<h>02220224024</h>
+</head>
+
+<header>
+</header>
+</html>
